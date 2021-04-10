@@ -7,3 +7,5 @@ TO RUN, FOLLOW THESE STEPS.
 3. run the script
 
 Note: MUST HAVE PYTHON INSTALLED OR IT WILL NOT WORK. This was tested on python 3.8, so that would be the reccommended version, but other python versions may work as well.
+
+Feel free to remix this project as you wish, also feel free to email me at therealemg@protonmail.com if you have any issues.
